@@ -1,6 +1,7 @@
 import './style.css';
 // import './clean-code/04-homework';
-import './clean-code/06-clases-a';
+// import './clean-code/06-clases-a';
+import './clean-code/06-clases-b';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
