@@ -3,7 +3,9 @@ import './style.css';
 // import './clean-code/06-clases-a';
 // import './clean-code/06-clases-b';
 // import './clean-code/06-clases-c';
-import './clean-code/07-tarea';
+// import './clean-code/07-tarea';
+import './solid/01-srp';
+
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
